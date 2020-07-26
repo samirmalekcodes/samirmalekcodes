@@ -16,7 +16,7 @@
 
 
 <!-- Any image aligned to the right. Beware the width -->
-<!-- <img width="55%" top="-100px" align="right" alt="Github" src="https://bit.ly/3jvLMET" /> -->
+<!-- <img width="60%" top="-100px" align="right" alt="Github" src="https://bit.ly/3jvLMET" /> -->
 <img width="55%" align="right" alt="Github" src="https://bit.ly/39rHn1o" />
 
 <!-- Your github readme stats
