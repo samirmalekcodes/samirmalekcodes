@@ -5,7 +5,7 @@
 <!--
 **samirmalekcodes/samirmalekcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
--  👨🏻‍💻  I’m currently working as Full-Time Freelance Web Designer and Social Media Manager ;
+-  👨🏻‍💻  I’m currently working as Full-Time Freelance Web Designer and Remote Social Media Manager ;
 - 🌱 I’m currently learning on Python language and it's frameworks used for Web Development namely, Flask and Django ;
 - 👯 I’m currently in building phase of journey to become Full Stack Developer through <code><a href="www.instagram.com/samirmalek.dev"><b>Instagram Blog</b></a> </code> and Eventually a Start-up down the lane... 😉 ;
 - 🤔 I’m looking for help with my consistency on following the challenges I set for myself;
