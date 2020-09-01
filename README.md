@@ -7,7 +7,7 @@
 
 -  👨🏻‍💻 Currently, I am working as Full-Time Freelance Web Developer and Remote Social Media Manager ;
 - 🌱 I’m currently learning on Python, JavaScript and it's frameworks used for Web Development.
-- 👯 I’m currently in building phase of journey to become Full Stack Developer through <code><a href="www.instagram.com/samirmalek.dev"><b>Instagram Blog</b></a> </code> by participating in <strong>"100 Days of Code Challenge"</strong> and Eventually a Start-up down the lane... 😉 ;
+- 👯 I’m currently in building phase of journey to become Full Stack Developer through <code><a href="www.instagram.com/samirmalek.dev"><b>Instagram Blog</b></a> </code> by participating in <strong>"100 Days of Code "</strong>  Challenge and Eventually a Start-up down the lane... 😉 ;
 - 🤔 I’m looking for help with my consistency on following the challenges I set for myself;
 - 💬 Ask me about anything, I would be happy to help;
 - ⚡ Fun fact: I have MBA degree in Telecom Management and Bachelor Degree in Electronics and Communication Engineering;
