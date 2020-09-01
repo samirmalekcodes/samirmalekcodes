@@ -11,7 +11,7 @@
 - 🤔 I’m looking for help with my consistency on following the challenges I set for myself;
 - 💬 Ask me about anything, I would be happy to help;
 - ⚡ Fun fact: I have MBA degree in Telecom Management and Bachelor Degree in Electronics and Communication Engineering;
-- 📫 How to reach me: <a href="mailto:samirmalek.dev@gmail.com"><b>Email</b></a> <code><a href="https://wa.me/message/EVJEN6YFJEK4I1"> <img height="30" width="30" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg"></a></code> <code><a href="https://dev.to/samirmalekcodes"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Samir Malek's DEV Profile" height="30" width="30">
+- 📫 How to reach me:  <a href="mailto:samirmalek.dev@gmail.com"><b>Email</b></a> </code> <code><a href="https://dev.to/samirmalekcodes"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Samir Malek's DEV Profile" height="30" width="30"> 
 </a></code>
 
 
