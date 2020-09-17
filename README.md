@@ -22,8 +22,8 @@
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/samirmalekcodes">
-    <img width="50%" align="right" alt="samirmalekcodes's github stats" src="https://github-readme-stats.vercel.app/api?username=samirmalekcodes&show_icons=true&hide_border=true" />
+  <a href="https://github.com/samirmalekdev">
+    <img width="50%" align="right" alt="samirmalekcodes's github stats" src="https://github-readme-stats.vercel.app/api?username=samirmalekdev&show_icons=true&hide_border=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
