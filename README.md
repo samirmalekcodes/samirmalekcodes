@@ -12,7 +12,7 @@
 - 👯 I’m currently in building phase of journey to become Full Stack Developer through <code><a href="www.instagram.com/samirmalek.dev"><b>Instagram Blog</b></a> </code> and Eventually a Start-up down the lane... 😉 ;
 - 💬 Ask me about anything, I would be happy to help;
 - ⚡ Fun fact: I have MBA degree in Telecom Management and Bachelor Degree in Electronics and Communication Engineering;
-- 📫 How to reach me:  <a href="mailto:samirmalek.dev@gmail.com"><b>Email</b></a> </code> <code><a href="https://dev.to/samirmalekcodes"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Samir Malek's DEV Profile" height="30" width="30"> 
+- 📫 How to reach me:  <a href="mailto:samirmalek.dev@gmail.com"><b>Email</b></a> </code> <code><a href="https://samirmalekcodes.hashnode.dev/"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592752137870/scHk9tTaA.png?auto=compress" alt="Samir Malek's Hashnode Profile" height="30" width="30"> 
 </a></code>
 
 
