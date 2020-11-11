@@ -6,7 +6,7 @@
 **samirmalekcodes/samirmalekcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - ✅  Completed #100DaysOfCode Challenge Round1 on 8th Oct 2020
-- ✅  Developed Movie WebApp using PythonDjango framework for backend + HTML5 CSS3 and JS for frontend. 
+- ✅  Developed Movie WebApp using PythonDjango framework for backend + HTML5 CSS3 and JS for frontend. This uses the Create.Read.Update.Delete (CRUD) functionality. 
       The link https://django-movieapp.herokuapp.com/
       
 - ✅  Developed Responsive Website for the Client Reliance INC. (WholeSale and Distributor) in USA.
