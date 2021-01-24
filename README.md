@@ -8,9 +8,6 @@
 - ✅  Completed #100DaysOfCode Challenge Round1 on 8th Oct 2020
 - ✅  Developed Movie WebApp using PythonDjango framework for backend + HTML5 CSS3 and JS for frontend. This uses the Create.Read.Update.Delete (CRUD) functionality. 
       The link https://django-movieapp.herokuapp.com/
-      
-- ✅  Developed Responsive Website for the Client Reliance INC. (WholeSale and Distributor) in USA.
-      The link https://reliancinco.com
 
 <!--  👨🏻‍💻 Currently, I am working as Full-Time Freelance Web Developer/Coach and Remote Social Media Manager;-->
 <!-- - 🌱 I’m currently learning on Python, JavaScript and it's frameworks used for Web Development. -->
