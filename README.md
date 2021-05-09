@@ -11,7 +11,7 @@
 
 <h3>  💻 &nbsp; More About Me </h3>
 
-- 💻 &nbsp; Python Instructor @GoMyCode| Coding mentor/coach | Web Developer
+- 💻 &nbsp; Python Instructor @GoMyCode | Coding mentor/coach | Freelance Web Developer
 - ✍🏻 &nbsp; Decent competitive programming, DSA, Algo skills
 - 📝 &nbsp; Documenting my coding journey.
 - 🎓 &nbsp; I’m currently learning Javascript , ReactJS and Firebase.
