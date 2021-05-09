@@ -57,9 +57,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
-<a href="mailto:samirmalek.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-saddamarbaas@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:samirmalek.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-samirmalek.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/malek31217/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-malek%2031217%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/samir_codes/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-samir_codes__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/samir_codes/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-samir_codes-blue?style=flat-square&logo=instagram"></a>
 
 <!-- [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/saddam.arbaa) -->
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+97332327866&text=Hi!)](https://api.whatsapp.com/send?phone=+97332327866&text=Hi!)
