@@ -5,13 +5,15 @@
 <!--
 **samirmalekcodes/samirmalekcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+- 💼 Python🐍 Instructor at Go My Code - Bahrain 
+
 - ✅  Completed #100DaysOfCode Challenge Round1 on 8th Oct 2020
 - ✅  Developed Movie WebApp using PythonDjango framework for backend + HTML5 CSS3 and JS for frontend. This uses the Create.Read.Update.Delete (CRUD) functionality. 
       The link https://django-movieapp.herokuapp.com/
 
 <!--  👨🏻‍💻 Currently, I am working as Full-Time Freelance Web Developer/Coach and Remote Social Media Manager;-->
 <!-- - 🌱 I’m currently learning on Python, JavaScript and it's frameworks used for Web Development. -->
-- 👯 I’m currently in building phase of journey to become Full Stack Developer through <code><a href="www.instagram.com/samirmalek.dev"><b>Instagram Blog</b></a> </code> and Eventually, land a Web Developer Job 😉 ;
+<!-- - 👯 I’m currently in building phase of journey to become Full Stack Developer through <code><a href="www.instagram.com/samir_codes "><b>Instagram Blog</b></a> </code> and Eventually, land a Web Developer Job 😉 ; -->
 - 💬 Ask me about anything, I would be happy to help;
 - ⚡ Fun fact: I have MBA degree in Telecom Management and Bachelor Degree in Electronics and Communication Engineering;
 - 📫 How to reach me:  <a href="mailto:samirmalek.dev@gmail.com"><b>Email</b></a> </code>;  My Blogs can be read from --> <code><a href="https://samirmalekcodes.hashnode.dev/"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592752137870/scHk9tTaA.png?auto=compress" alt="Samir Malek's Hashnode Profile" height="30" width="30"> 
