@@ -32,7 +32,6 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  <!-- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) -->
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -41,10 +40,8 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  
 <br/>
 
 <a href="https://github.com/AVS1508">
@@ -59,7 +56,7 @@
 <p>
 <a href="mailto:samirmalek.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-samirmalek.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/malek31217/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-malek%2031217%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/samir_codes/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-samir_codes-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/samir_codes/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-samir__codes-blue?style=flat-square&logo=instagram"></a>
 
 <!-- [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/saddam.arbaa) -->
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+97332327866&text=Hi!)](https://api.whatsapp.com/send?phone=+97332327866&text=Hi!)
