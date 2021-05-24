@@ -13,14 +13,14 @@
 
 - 💻 &nbsp; Python Instructor @GoMyCode | Coding mentor/coach | Freelance Web Developer
 - ✍🏻 &nbsp; Decent competitive programming, DSA, Algo skills
-- 📝 &nbsp; Documenting my coding journey.
-- 🎓 &nbsp; I’m currently learning Javascript , ReactJS and Firebase.
+- 📝 &nbsp; Never to Stop Documenting my coding journey.
+- 🎓 &nbsp; I’m currently learning ReactJS
 - 🌱 &nbsp; Always Learning more about Python Programming and Javascript's Programming Language
 - 🎓 &nbsp; Student at at https://www.cleverprogrammer.com/.
 - 🎓 &nbsp; Studying Freecodecamp Course at https://freecodecamp.org
 <!-- - 🌱 &nbsp; Learning more about Data Structures and Algorithms Offered by Princeton University at https://www.coursera.org/learn/algorithms-part1.
 - 👯 &nbsp; I’m looking forward to collaborate on any Open Source project which I consider interesting or useful. -->
-- 🎓 &nbsp; 2021 Goals: Become Python Instructor , Master ReactJS , Complete Python[Django] + ReactJS Stack , Build Projects
+- 🎓 &nbsp; 2021 Goals: Become Python Instructor ✅ , Master ReactJS , Complete Python[Django] + ReactJS Stack , Build Projects
 - ⚡ &nbsp; Fun fact: First solve the problem, then write the code :heart:.
 - ✍️ &nbsp; Pursuing Side Hustlers/Hobbies in Full-Time Career Swtich
 
