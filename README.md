@@ -4,7 +4,8 @@
 </p>
 
 
-<h2>  Hi there! 👋 I'm Samir Malek. </h2>  ![visitors](https://visitor-badge.glitch.me/badge?page_id=samirmalekcodes.repoName)
+<h2>  Hi there! 👋 I'm Samir Malek. </h2>  ![visitors](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=samirmalekcodesf&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+
   I am an enthusiastic software developer, hard worker, problem solver and fast learner.<br> 
  I always ensure the fast delivery of the functional well organized and clean code using <br> 
  the appropriate Programming language and frameworks.
