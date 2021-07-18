@@ -4,7 +4,7 @@
 </p>
 
 
-<h2>  Hi there! 👋 I'm Samir Malek. </h2>  ![visitors](https://visitor-badge.glitch.me/badge?page_id=samirmalekcodes.visitor-badge)
+<h2>  Hi there! 👋 I'm Samir Malek. </h2>  ![visitors](https://visitor-badge.glitch.me/badge?page_id=samirmalekcodes)
   I am an enthusiastic software developer, hard worker, problem solver and fast learner.<br> 
  I always ensure the fast delivery of the functional well organized and clean code using <br> 
  the appropriate Programming language and frameworks.
