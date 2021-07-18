@@ -27,8 +27,7 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 🌐 &nbsp;
- <p>
+- 🌐 &nbsp; <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
