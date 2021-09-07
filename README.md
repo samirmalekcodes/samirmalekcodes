@@ -16,8 +16,8 @@
 - 📝 &nbsp; Never to Stop Documenting my coding journey.
 - 🎓 &nbsp; I’m currently learning ReactJS
 - 🌱 &nbsp; Always Learning more about Python Programming and Javascript's Programming Language
-- 🎓 &nbsp; Student at https://www.cleverprogrammer.com/.
-- 🎓 &nbsp; Studying Freecodecamp Course at https://freecodecamp.org
+<!-- - 🎓 &nbsp; Student at https://www.cleverprogrammer.com/.
+- 🎓 &nbsp; Studying Freecodecamp Course at https://freecodecamp.org -->
 <!-- - 🌱 &nbsp; Learning more about Data Structures and Algorithms Offered by Princeton University at https://www.coursera.org/learn/algorithms-part1.
 - 👯 &nbsp; I’m looking forward to collaborate on any Open Source project which I consider interesting or useful. -->
 - 🎓 &nbsp; 2021 Goals: Become Python Instructor ✅ , Master ReactJS , Complete Python[Django] + ReactJS Stack , Build Projects
