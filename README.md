@@ -24,7 +24,7 @@
 - ⚡ &nbsp; Fun fact: First solve the problem, then write the code :heart:.
 - ✍️ &nbsp; Pursuing Side Hustlers/Hobbies in Full-Time Career Swtich
 
-
+<!-- 
 <h3> 🛠 &nbsp; Tech Stack</h3>
 
 <p>
@@ -33,16 +33,16 @@
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
 <!--   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> -->
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white" />
+<!--   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white" /> -->
 <!--   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" /> -->
 <!--   <img alt="GitHub" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" /> -->
-  <img alt="Git" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
-  <img alt="VSCode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" />
+<!--   <img alt="Git" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
+  <img alt="VSCode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" /> -->
 </p>
 <br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<!-- 
+<h3> 🤝🏻 &nbsp;Connect with Me </h3> -->
 
 <p>
 <a href="mailto:samirmalek.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-samirmalek.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
@@ -50,14 +50,14 @@
 <a href="https://www.instagram.com/samir_codes/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-samir__codes-blue?style=flat-square&logo=instagram"></a>
  
 <br/>
- 
+<!--  
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+97332327866&text=Hi!)](https://api.whatsapp.com/send?phone=+97332327866&text=Hi!)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/_weltonfelix/)](https://twitter.com/samir_codes/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/_weltonfelix/)](https://twitter.com/samir_codes/) -->
 
-<a href="https://github.com/AVS1508">
+<!-- <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samirmalekcodes&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirmalekcodes&theme=buefy&layout=compact" />
-</a>
+</a> -->
 
 <!-- [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/saddam.arbaa) -->
 </p>
@@ -73,5 +73,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
+ -->
+ 
+ <a href="https://app.daily.dev/samir_codes"><img src="https://api.daily.dev/devcards/7a691d31e6d749b7ab78ac4b2c413193.png?r=o1p" width="400" alt="Samir Malek's Dev Card"/></a>
  
