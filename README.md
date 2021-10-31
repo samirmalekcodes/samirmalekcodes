@@ -5,7 +5,7 @@
  -->
  
  
- <a href="https://app.daily.dev/samir_codes"><img src="https://api.daily.dev/devcards/7a691d31e6d749b7ab78ac4b2c413193.png?r=o1p" width="400" alt="Samir Malek's Dev Card"/></a>
+ <a href="https://app.daily.dev/samir_codes"><img align= "right" src="https://api.daily.dev/devcards/7a691d31e6d749b7ab78ac4b2c413193.png?r=o1p" width="400" alt="Samir Malek's Dev Card"/></a>
 
 <h2>  Hi there! 👋 I'm Samir Malek. </h2> 
  I am an enthusiastic software developer, hard worker, problem solver and fast learner.<br> 
@@ -75,6 +75,4 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
- -->
  
