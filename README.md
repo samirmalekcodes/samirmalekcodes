@@ -1,8 +1,11 @@
 ### ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=samirmalekcodes.repoName)
 
-<img align="right" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300" height="300"/>
+<!-- <img align="right" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300" height="300"/>
 </p>
-
+ -->
+ 
+ 
+ <a href="https://app.daily.dev/samir_codes"><img src="https://api.daily.dev/devcards/7a691d31e6d749b7ab78ac4b2c413193.png?r=o1p" width="400" alt="Samir Malek's Dev Card"/></a>
 
 <h2>  Hi there! 👋 I'm Samir Malek. </h2> 
  I am an enthusiastic software developer, hard worker, problem solver and fast learner.<br> 
@@ -74,6 +77,4 @@
 <!-- BLOG-POST-LIST:END -->
 
  -->
- 
- <a href="https://app.daily.dev/samir_codes"><img src="https://api.daily.dev/devcards/7a691d31e6d749b7ab78ac4b2c413193.png?r=o1p" width="400" alt="Samir Malek's Dev Card"/></a>
  
