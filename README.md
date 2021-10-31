@@ -27,26 +27,24 @@
 - ⚡ &nbsp; Fun fact: First solve the problem, then write the code :heart:.
 - ✍️ &nbsp; Pursuing Side Hustlers/Hobbies in Full-Time Career Swtich
 
-<!-- 
 <h3> 🛠 &nbsp; Tech Stack</h3>
-
+ 
 <p>
   <img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
-<!--   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> -->
-<!--   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white" /> -->
+  <img alt="ReactJS" src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white" />
 <!--   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" /> -->
-<!--   <img alt="GitHub" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" /> -->
-<!--   <img alt="Git" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
-  <img alt="VSCode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" /> -->
+  <img alt="GitHub" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
+<!--   <img alt="Git" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" /> -->
+  <img alt="VSCode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" /> 
 </p>
 <br/>
-<!-- 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3> -->
-
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p>
 <a href="mailto:samirmalek.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-samirmalek.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/malek31217/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-malek%2031217%20-blue?style=flat-square&logo=linkedin"></a>
