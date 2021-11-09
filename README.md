@@ -17,7 +17,7 @@
 - 💻 &nbsp; Coding mentor/coach | Freelance Web Developer
 - ✍🏻 &nbsp; Decent competitive programming, DSA, Algo skills
 - 📝 &nbsp; Never to Stop Documenting my coding journey.
-- 🎓 &nbsp; I’m currently learning ReactJS
+- 🎓 &nbsp; I’m currently learning ReactJS and NodeJS
 - 🌱 &nbsp; Always Learning more about Python Programming and Javascript's Programming Language
 <!-- - 🎓 &nbsp; Student at https://www.cleverprogrammer.com/.
 - 🎓 &nbsp; Studying Freecodecamp Course at https://freecodecamp.org -->
