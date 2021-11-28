@@ -6,7 +6,7 @@
  
  <a href="https://app.daily.dev/DailyDevTips"><img align= "right" src="https://github.com/samirmalekcodes/samirmalekcodes/blob/master/devcard.svg" width="400" alt="Samir Malek's Dev Card"/></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&color=%2336BCF7&size=23&multiline=true&width=457&height=52&lines=Web+Development+Freelance+Coach%2FMentor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&color=%2336BCF7&size=23&multiline=true&width=430&height=52&lines=Web+Development+Freelance+Coach%2FMentor)](https://git.io/typing-svg)
 
 <h2>  Hi there! 👋 I'm Samir Malek. </h2> 
  I am an enthusiastic software developer, hard worker, problem solver and fast learner.<br> 
