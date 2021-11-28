@@ -4,8 +4,9 @@
 </p>
  -->
  
- 
  <a href="https://app.daily.dev/DailyDevTips"><img align= "right" src="https://github.com/samirmalekcodes/samirmalekcodes/blob/master/devcard.svg" width="400" alt="Samir Malek's Dev Card"/></a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&color=%2336BCF7&size=23&multiline=true&width=457&height=52&lines=Web+Development+Freelance+Coach%2FMentor)](https://git.io/typing-svg)
 
 <h2>  Hi there! 👋 I'm Samir Malek. </h2> 
  I am an enthusiastic software developer, hard worker, problem solver and fast learner.<br> 
@@ -14,34 +15,35 @@
 
 <h3>  💻 &nbsp; More About Me </h3>
 
-- 💻 &nbsp; Coding mentor/coach | Freelance Web Developer
-- ✍🏻 &nbsp; Decent competitive programming, DSA, Algo skills
-- 📝 &nbsp; Never to Stop Documenting my coding journey.
-- 🎓 &nbsp; I’m currently learning ReactJS and NodeJS
-- 🌱 &nbsp; Always Learning more about Python Programming and Javascript's Programming Language
-<!-- - 🎓 &nbsp; Student at https://www.cleverprogrammer.com/.
-- 🎓 &nbsp; Studying Freecodecamp Course at https://freecodecamp.org -->
-<!-- - 🌱 &nbsp; Learning more about Data Structures and Algorithms Offered by Princeton University at https://www.coursera.org/learn/algorithms-part1.
-- 👯 &nbsp; I’m looking forward to collaborate on any Open Source project which I consider interesting or useful. -->
-- 🎓 &nbsp; 2021 Goals: Become Python Instructor ✅ , Master ReactJS , Complete Python[Django] + ReactJS Stack , Build Projects
+- 💻 &nbsp; Coding mentor/coach | Freelance Web Developer.
+- ✍🏻 &nbsp; Decent competitive programming, DSA, Algo skills.
+- 📝 &nbsp; Never to Stop Documenting my coding journey to Inspire and Be Inspired!
+- 🎓 &nbsp; I’m currently learning ReactJS and NodeJS.
+- 🌱 &nbsp; Always educate yourself as Life is the best teacher.
+- 🎓 &nbsp; 2021 Goals: Become Python Instructor ✅
+- 📌 🧿&nbsp; 2022 Goals: Full Time Freelance Web Developement Coach/Mentor.
 - ⚡ &nbsp; Fun fact: First solve the problem, then write the code :heart:.
 - ✍️ &nbsp; Pursuing Side Hustlers/Hobbies in Full-Time Career Swtich
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samirmalekcodes&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=000000&currStreakLabel=32CA18&sideLabels=9BFF96&dates=FFFFFF&ring=FF0000)](https://git.io/streak-stats)
+
 <h3> 🛠 &nbsp; Tech Stack</h3>
- 
-<p>
-  <img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
+<p> 
+ <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+ <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+ <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+ <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
+ <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+ <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+ <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <!--   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /> -->
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="ReactJS" src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white" />
-<!--   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" /> -->
-  <img alt="GitHub" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
-<!--   <img alt="Git" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" /> -->
-  <img alt="VSCode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" /> 
+ <img alt="ReactJS" src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+ <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+ <img alt="Netlify" src= "https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+ <img alt="Canva" src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+ <img alt="iTerm2" src = "https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" />
 </p>
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
