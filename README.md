@@ -20,8 +20,8 @@
 - 📝 &nbsp; Never to Stop Documenting my coding journey to Inspire and Be Inspired!
 - 🎓 &nbsp; I’m currently learning ReactJS and NodeJS.
 - 🌱 &nbsp; Always educate yourself as Life is the best teacher.
-- 🎓 &nbsp; 2021 Goals: Become Python Instructor ✅
-- 📌 🧿&nbsp; 2022 Goals: Full Time Freelance Web Developement Coach/Mentor.
+<!-- - 🎓 &nbsp; 2021 Goals: Become Python Instructor ✅ -->
+- 📌 🧿&nbsp; 2022 Goals: Full Time/Freelance Web Developement Coach/Mentor.
 - ⚡ &nbsp; Fun fact: First solve the problem, then write the code :heart:.
 - ✍️ &nbsp; Pursuing Side Hustlers/Hobbies in Full-Time Career Swtich
 
