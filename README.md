@@ -1,4 +1,6 @@
-### ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=samirmalekcodes.repoName)
+<!-- ### ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=samirmalekcodes.repoName) -->
+
+![](https://komarev.com/ghpvc/?username=samirmalekcodes&label=Visitors+Count&color=blue)
 
 <!-- <img align="right" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300" height="300"/>
 </p>
@@ -15,64 +17,28 @@
 
 <h3>  💻 &nbsp; More About Me </h3>
 
-- 💻 &nbsp; Coding mentor/coach | Freelance Web Developer.
-- ✍🏻 &nbsp; Decent competitive programming, DSA, Algo skills.
-- 📝 &nbsp; Never to Stop Documenting my coding journey to Inspire and Be Inspired!
-- 🎓 &nbsp; I’m currently learning ReactJS and NodeJS.
-- 🌱 &nbsp; Always educate yourself as Life is the best teacher.
-<!-- - 🎓 &nbsp; 2021 Goals: Become Python Instructor ✅ -->
-- 📌 🧿&nbsp; 2022 Goals: Full Time/Freelance Web Developement Coach/Mentor.
-- ⚡ &nbsp; Fun fact: First solve the problem, then write the code :heart:.
-- ✍️ &nbsp; Pursuing Side Hustlers/Hobbies in Full-Time Career Swtich
+# 💫About Me :
+-  💻 Coding mentor/coach | Freelance Web Developer.
+- 🌱 Always educate yourself as Life is the best teacher.
+- 📌 🧿2022 Goals: Full Time/Freelance Web Development Coach/Mentor.
+- ⚡Fun fact: First solve the problem, then write the cod.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samirmalekcodes&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=000000&currStreakLabel=32CA18&sideLabels=9BFF96&dates=FFFFFF&ring=FF0000)](https://git.io/streak-stats)
+## 🌐Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samir_codes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malek31217) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@samir_codes) 
 
-<h3> 🛠 &nbsp; Tech Stack</h3>
-<p> 
- <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
- <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
- <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
- <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
- <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
- <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
- <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<!--   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /> -->
- <img alt="ReactJS" src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
- <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
- <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
- <img alt="Netlify" src= "https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
- <img alt="Canva" src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
- <img alt="iTerm2" src = "https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" />
-</p>
-<br/>
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<p>
-<a href="mailto:samirmalek.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-samirmalek.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/malek31217/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-malek%2031217%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/samir_codes/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-samir__codes-blue?style=flat-square&logo=instagram"></a>
- 
-<br/>
-<!--  
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+97332327866&text=Hi!)](https://api.whatsapp.com/send?phone=+97332327866&text=Hi!)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/_weltonfelix/)](https://twitter.com/samir_codes/) -->
+# 💻Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<!-- <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samirmalekcodes&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirmalekcodes&theme=buefy&layout=compact" />
-</a> -->
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=samirmalekcodes&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=samirmalekcodes&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samirmalekcodes&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/saddam.arbaa) -->
-</p>
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=samirmalekcodes&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<!--TODO -->
-<!-- will add my webside blow here  -->
-<!--
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
--->
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<!-- # latest Blog posts -->
+---
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
- 
