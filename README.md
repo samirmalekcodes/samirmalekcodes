@@ -8,7 +8,7 @@
  
  <a href="https://app.daily.dev/DailyDevTips"><img align= "right" src="https://github.com/samirmalekcodes/samirmalekcodes/blob/master/devcard.svg" width="400" alt="Samir Malek's Dev Card"/></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&color=%2336BCF7&size=23&multiline=true&width=430&height=52&lines=Web+Development+Freelance+Coach%2FMentor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&duration=4998&color=9C5DF7&background=FFFFFF&vCenter=true&width=441&height=48&lines=Web+Developer+%26+Coaching+Expert)](https://git.io/typing-svg)
 
 <h2>  Hi there! 👋 I'm Samir Malek. </h2> 
  I am an enthusiastic software developer, hard worker, problem solver and fast learner.<br> 
@@ -18,10 +18,10 @@
 <h3>  💻 &nbsp; More About Me </h3>
 
 # 💫About Me :
--  💻 Coding mentor/coach | Freelance Web Developer.
+-  💻 Coding mentor/coach | Web Developer and Coaching Expert
 - 🌱 Always educate yourself as Life is the best teacher.
-- 📌 🧿2022 Goals: Full Time/Freelance Web Development Coach/Mentor.
-- ⚡Fun fact: First solve the problem, then write the cod.
+- 📌 🧿2022 Goals: Full Time/Freelance Web Developer && Coach/Mentor.
+- ⚡Fun fact: First solve the problem, then write the code.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samir_codes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malek31217) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@samir_codes) 
