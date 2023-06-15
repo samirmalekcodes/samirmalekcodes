@@ -20,7 +20,7 @@
 # 💫About Me :
 -  💻 Coding mentor/coach | Web Developer and Coaching Expert
 - 🌱 Always educate yourself as Life is the best teacher.
-- 📌 🧿2022 Goals: Full Time/Freelance Web Developer && Coach/Mentor.
+- 📌 🧿2023 Goals: Educate && Earn 4-figure from Side Hustles
 - ⚡Fun fact: First solve the problem, then write the code.
 
 ## 🌐Socials
